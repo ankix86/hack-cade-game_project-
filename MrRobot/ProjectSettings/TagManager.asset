@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Devices
+  - processbar
+  - detect_bar
+  - gameover
+  - wall
+  - t1
+  - key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Ladder
+  - Drone
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1196058179
+    locked: 0
+  - name: Wall
+    uniqueID: 3126699041
+    locked: 0
+  - name: Buildings
+    uniqueID: 4243050147
+    locked: 0
+  - name: Player
+    uniqueID: 4262917173
+    locked: 0
+  - name: Bigwall
+    uniqueID: 3583970809
+    locked: 0
+  - name: UI
+    uniqueID: 958156969
+    locked: 0
